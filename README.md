@@ -1,2 +1,2 @@
 # RockingKnight
-Jam Game made in 2.5 hours
+Game made in 2.5 hours for Trijam
